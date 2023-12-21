@@ -1,0 +1,2 @@
+# FishConfig
+My fish config
