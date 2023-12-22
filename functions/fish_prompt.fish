@@ -43,7 +43,7 @@ function fish_prompt
 
     #USER
     set_color "F4502D"
-    printf '󱥗 %s' $USER
+    printf '󰑱 %s' $USER
     set_color normal
     
     #PATH
